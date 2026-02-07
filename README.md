@@ -35,9 +35,10 @@ School of Communication Engineering & School of Computer Science and Technology
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VhoCheng&show_icons=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VhoCheng&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VhoCheng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VhoCheng&layout=compact&hide_border=true" />
 </p>
 
 ---
