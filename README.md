@@ -16,7 +16,7 @@ School of Communication Engineering & School of Computer Science and Technology
 
 <br/>
 
-🌐 <a href="https://vhocheng.github.io">Homepage</a> ·
+🌐 <a href="https://vhocheng.github.io">Personal Homepage</a> ·
 🎓 <a href="https://scholar.google.com/citations?user=Hi_tqZgAAAAJ&hl=zh-CN">Google Scholar</a> ·
 🔗 <a href="https://orcid.org/0009-0009-1891-4760">ORCID</a> ·
 📫 <a href="mailto:weihao_cheng@hdu.edu.cn">Email</a>
@@ -51,7 +51,7 @@ School of Communication Engineering & School of Computer Science and Technology
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -64,8 +64,9 @@ School of Communication Engineering & School of Computer Science and Technology
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VhoCheng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VhoCheng&layout=compact&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VhoCheng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VhoCheng&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
 
 </div>
 
@@ -75,7 +76,7 @@ School of Communication Engineering & School of Computer Science and Technology
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VhoCheng&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=VhoCheng&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -98,10 +99,8 @@ School of Communication Engineering & School of Computer Science and Technology
   **Proceedings of the National Academy of Sciences (PNAS)**, 2025.  
   🔗 https://www.pnas.org/doi/abs/10.1073/pnas.2529610122
 
-- **Weihao Cheng**, et al.  
-  *[Title omitted for brevity]*  
-  **Australian Critical Care**, 2025.  
-  🔗 https://www.australiancriticalcare.com/article/S1036-7314(25)00313-3/abstract
+- **A Method and System for Early Warning of Myocardial Ischemia Based on Multi-Agent Collaboration**  
+  **Inventors:** Weihao Cheng, Yuanyuan Lian, Youjia Ling, Hangyu Zhu
 
 📖 For a complete list of publications, preprints, and citations, please refer to my  
 <a href="https://scholar.google.com/citations?user=Hi_tqZgAAAAJ&hl=zh-CN">Google Scholar profile</a>.
@@ -112,7 +111,7 @@ School of Communication Engineering & School of Computer Science and Technology
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VhoCheng&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=VhoCheng&style=for-the-badge" alt="Profile views" />
 
 </div>
 
