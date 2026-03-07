@@ -72,6 +72,16 @@ School of Communication Engineering & School of Computer Science and Technology
 
 ---
 
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VhoCheng&theme=github-compact&hide_border=true"/>
+
+</div>
+
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -92,6 +102,16 @@ School of Communication Engineering & School of Computer Science and Technology
 
 ---
 
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+
+</div>
+
 ## 📚 Selected Publications
 
 - **Weihao Cheng**, et al.  
@@ -106,6 +126,30 @@ School of Communication Engineering & School of Computer Science and Technology
 <a href="https://scholar.google.com/citations?user=Hi_tqZgAAAAJ&hl=zh-CN">Google Scholar profile</a>.
 
 ---
+
+---
+
+## 🌎 Visitor Map
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=VhoCheng.VhoCheng"/>
+
+</div>
+
+---
+
+## 🎓 Research Impact
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=for-the-badge&logo=google-scholar"/>
+
+<a href="https://scholar.google.com/citations?user=Hi_tqZgAAAAJ&hl=zh-CN">
+Google Scholar Profile
+</a>
+
+</div>
 
 ## 👀 Profile Views
 
