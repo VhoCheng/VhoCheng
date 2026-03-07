@@ -96,7 +96,7 @@ School of Communication Engineering & School of Computer Science and Technology
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VhoCheng/VhoCheng/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/VhoCheng/VhoCheng/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
