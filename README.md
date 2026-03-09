@@ -42,6 +42,10 @@ School of Communication Engineering & School of Computer Science and Technology
 - **Paper List for Medical Reasoning LLMs** — A curated reading list for medical reasoning, LLMs, and AI agents  
   🔗 <a href="https://github.com/HovChen/Paper-List-for-Medical-Reasoning-Large-Language-Models">GitHub Repository</a>
 
+- **DentVision** — A project for dental vision-related tasks
+🔗 <a href="https://github.com/VhoCheng/DentVision">GitHub Repository</a>
+- **AIAgent-References** — References and resources for AI Agent development
+🔗 <a href="https://github.com/VhoCheng/AIAgent-References">GitHub Repository</a>
 ---
 
 ## 🛠 Tech Stack
