@@ -34,6 +34,24 @@ School of Communication Engineering & School of Computer Science and Technology
 
 ---
 
+## Academic Appointments
+
+### 📝Journal Peer-Reviewer
+- Peer-Reviewer, World Journal of Critical Care Medicine (WJCCM), World Journal of Gastrointestinal Surgery (WJGIS), World Journal of Methodology (WJM), World Journal of Psychiatry (WJPSY), World Journal of Gastroenterology (WJG), World Journal of Hepatology (WJH), World Journal of Clinical Pediatrics (WJCP).
+- Peer-Reviewer, AI & Future Society，Journal of Artificial Intelligence for Medical Sciences (JAIMS).
+
+### 🔍 Conference Reviewer
+- Reviewer, MICCAI 2026
+
+### 🧩 Student Memberships
+- Student Member, ICHEIM 2025
+- Student Member, China Computer Federation (CCF)
+- Student Member, China Institute of Communications (CIC)
+- Student Member, Chinese Mechanical Engineering Society (CMES)
+- Student Member, Chinese Association for Artificial Intelligence (CAAI)
+
+---
+
 ## 🚀 Featured Projects
 
 - **PathLens** — A lightweight multimodal pathology reasoning framework  
