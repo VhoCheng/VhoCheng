@@ -31,6 +31,7 @@ School of Communication Engineering & School of Computer Science and Technology
 - **Medical image analysis** & **Cardiovascular AI**
 - **Large Language Models (LLMs)** for healthcare
 - **AI Agents** for clinical decision support and workflow automation
+- **Multimodal Medical Data Analysis**
 
 ---
 
@@ -42,6 +43,7 @@ School of Communication Engineering & School of Computer Science and Technology
 
 ### 🔍 Conference Reviewer
 - Reviewer, MICCAI 2026
+- Reviewer, IEEEICHI2026
 
 ### 🧩 Student Memberships
 - Student Member, ICHEIM 2025
