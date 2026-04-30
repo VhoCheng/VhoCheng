@@ -32,7 +32,8 @@ School of Communication Engineering & School of Computer Science and Technology
 - **Large Language Models (LLMs)** for healthcare
 - **AI Agents** for clinical decision support and workflow automation
 - **Multimodal Medical Data Analysis**
-
+- **Few-Shot Learning Based Multi-Class Target Classification Method for Low-Altitude Surveillance Radar**
+- **Intelligent Decision-Making and Resilience Improvement of Industrial CPPS Driven by Multimodal Large Model**
 ---
 
 ## Academic Appointments
