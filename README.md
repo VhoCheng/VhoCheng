@@ -12,7 +12,7 @@
 <br/><br/>
 
 Undergraduate student at <b>Hangzhou Dianzi University (HDU)</b>  
-School of Communication Engineering & School of Computer Science and Technology
+School of Communication Engineering & School of Computer Science and Technology</b> 
 The supervisors are Professor Tu Haicheng and Professor Ye Huihui from the School of Communication Engineering, Hangzhou Dianzi University, as well as Professor Qin Feiwei from the School of Computer Science and Technology.
 
 <br/>
