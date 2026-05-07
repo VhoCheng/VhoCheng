@@ -45,8 +45,9 @@ School of Communication Engineering & School of Computer Science and Technology<
 
 ### 🔍 Conference Reviewer
 - Reviewer, MICCAI 2026
-- Reviewer, IEEEICHI2026
-
+- Reviewer, IEEEICHI 2026
+- Reviewer, CTESP 2026
+  
 ### 🧩 Student Memberships
 - Student Member, ICHEIM 2025
 - Student Member, China Computer Federation (CCF)
