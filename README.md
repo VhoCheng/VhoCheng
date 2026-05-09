@@ -54,6 +54,7 @@ School of Communication Engineering & School of Computer Science and Technology<
 - Student Member, China Institute of Communications (CIC)
 - Student Member, Chinese Mechanical Engineering Society (CMES)
 - Student Member, Chinese Association for Artificial Intelligence (CAAI)
+- Student Member, China Society of Image and Graphics (CSIG)
 
 ---
 
