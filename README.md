@@ -47,6 +47,7 @@ School of Communication Engineering & School of Computer Science and Technology<
 - Reviewer, MICCAI 2026
 - Reviewer, IEEEICHI 2026
 - Reviewer, CTESP 2026
+- Reviewer, NLPCC 2026
   
 ### 🧩 Student Memberships
 - Student Member, ICHEIM 2025
